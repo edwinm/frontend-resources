@@ -1,0 +1,2 @@
+# frontend-resources
+Frontend resources
