@@ -12,3 +12,12 @@ Miscellaneous resources for web developers
 
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Convert and minimize SVG
 - [Squoosh](https://squoosh.app/) - Convert and minimize images
+
+## Fonts
+
+- [Google Fonts](https://fonts.google.com/) - Free fonts
+
+## Icons
+
+- [Lucide](https://lucide.dev/)
+- [OBRA](https://icons.obra.studio/)
