@@ -28,6 +28,7 @@ Miscellaneous resources for web developers
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Convert and minimize SVG
 - [SVG Converter](https://svgconverter.online/) - Convert images to SVG
 - [SVG Filters](https://yoksel.github.io/svg-filters/) - Try out different SVG filters
+- [SVG Filter Builder](https://svgfilters.com/) - Build an SVG filter pipeline
 
 ## Icons
 
