@@ -33,6 +33,7 @@ Miscellaneous resources for web developers
 ## Icons
 
 - [Lucide](https://lucide.dev/) - Good icon library
+- [Nucleo free icons](https://nucleoapp.com/free-icons) - Nice icons
 - [OBRA](https://icons.obra.studio/) - Another great icon library
 - [Iconify](https://iconify.design/) - Search in open source icons
 - [All SVG Icons](https://allsvgicons.com/) - Another search engine for free icons
