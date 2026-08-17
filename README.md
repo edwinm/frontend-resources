@@ -7,6 +7,7 @@ Miscellaneous resources for web developers
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Comprehensive reference
 - [Can I Use](https://caniuse.com/) - What is the support for web features
 - [Baseline](https://web.dev/baseline) - Web features with broad browser support
+- [Website spec](https://specification.website/) - A platform-agnostic specification of all the technical details that matter for a website
 
 ## Packages
 
@@ -40,4 +41,10 @@ Miscellaneous resources for web developers
 
 ## PWA
 
-- [PWA suppoer](https://pwa.support/pwa-support.html) - Table of supported features in browsers 
+- [PWA support](https://pwa.support/pwa-support.html) - Table of supported PWA features in browsers 
+
+## Interactivity
+
+- [Morph any SVG icon into any other](https://www.morphicons.com/)
+- [Sound effects for the interface, performed live](https://usefoley.dev/)
+- [Jelly UI](https://jelly-ui.com/) - Jelly UI is a dependency-free Web Components library for soft, tactile product interfaces
