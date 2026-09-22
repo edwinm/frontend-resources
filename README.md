@@ -19,6 +19,7 @@ Miscellaneous resources for web developers
 - [Sweetfont](https://sweetfont.com/) – Nice interface for Google Fonts
 - [Fontsource](https://fontsource.org/) – Another  search engine for open source fonts
 - [Wakamai Fondue](https://wakamaifondue.com/beta/) – Get font properties
+- [Modern Font Stacks](https://modernfontstacks.com/) – Use OS fonts
 
 ## Images
 
@@ -41,7 +42,11 @@ Miscellaneous resources for web developers
 
 ## PWA
 
-- [PWA support](https://pwa.support/pwa-support.html) – Table of supported PWA features in browsers 
+- [PWA support](https://pwa.support/pwa-support.html) – Table of supported PWA features in browsers
+
+## Animation
+
+- [kinetics](https://kinetics.colorion.co/) – A library of interface animations
 
 ## Interactivity
 
