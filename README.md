@@ -21,6 +21,11 @@ Miscellaneous resources for web developers
 - [Wakamai Fondue](https://wakamaifondue.com/beta/) – Get font properties
 - [Modern Font Stacks](https://modernfontstacks.com/) – Use OS fonts
 
+## Colors
+
+- [Leonardo](https://leonardocolor.io/) – Create a color system
+
+
 ## Images
 
 - [Squoosh](https://squoosh.app/) – Convert and minimize images
